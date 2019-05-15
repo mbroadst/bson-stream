@@ -1,0 +1,15 @@
+{
+  "name": "bson-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node stream.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bson": "^4.0.2",
+    "bl": "^3.0.0"
+  }
+}
